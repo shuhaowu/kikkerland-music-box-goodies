@@ -5,6 +5,10 @@ These sheets here are for your printing pleasure. The PDF files is under the
 pdf folder, which is not available yet as I need to figure out how to turn
 these into reality.
 
+Note that I'm going to refer to **measures** from now on. These are not actual
+measures, but measures according to the 4/4 time signature. So in a 3/4 time
+signature setting, 18 measures will actually be 24 measures.
+
 The dimension of the paper is as follows (Not tested yet, will test once
 printed):
 
