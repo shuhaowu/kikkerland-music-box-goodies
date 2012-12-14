@@ -14,5 +14,9 @@ into a PDF of the correct size as I don't know where I could print this yet.
 Eventually I want to make a box that covers the whole thing so it looks pretty
 and perhaps motorizing the whole system with a gear and some servos/motors.
 
-License: Uh... I don't know if GPLv3 applies here, but basically this thing 
-will be released under something that's like GPLv3 but for hardware?
+License
+-------
+
+This work is licensed under the Creative Commons 
+Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of 
+this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/.

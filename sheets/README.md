@@ -44,6 +44,11 @@ done so I don't have to mess with that everytime I start a new file.
 
 All files are done in in AutoCAD 2013 Educational Edition.
 
+There is a special letter sized version it only contains 6 measures (24 quarter
+notes and 48 8th notes). It does not work with standard letter paper as it
+is too thin. However, you could stack 2-3 strips and glue them together
+to work. Foldable version coming soon...
+
 Printing Instructions
 =====================
 
