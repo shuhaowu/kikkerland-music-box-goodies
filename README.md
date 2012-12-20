@@ -2,17 +2,32 @@ Kikkerland Music Box DIY Goodies
 ================================
 
 The [Kirkkerland mechanical music box](https://www.thinkgeek.com/product/8f7f/?srp=1)
-is a neat toy that allows you to make your own music. This repository is 
-dedicated to extensions and other designs that extends the music box 
-functionalities. 
+is a neat toy that allows you to transpose any song into a music box format.
 
-For now all I have are some custom sheets for the music box that you could
-print. I have different sizes drawn up in AutoCAD 2013 Student edition and 
-saved in the AutoCAD 2013 dwg formats. Hopefully I will be able to export it
-into a PDF of the correct size as I don't know where I could print this yet.
+This repository is dedicated to work on the music box to make it more awesome.
+Join the fun by forking this repo and make the awesome happen!
 
-Eventually I want to make a box that covers the whole thing so it looks pretty
-and perhaps motorizing the whole system with a gear and some servos/motors.
+A demo of my music box with heart and soul that I transposed:
+https://www.youtube.com/watch?v=o99OTM5sAcA
+
+Repo structure
+--------------
+
+ - `accessories/`: Any accessories to the music box itself, such as refill paper
+ - `extensions/`: Any extensions that does not modify the music box but
+                  increases its awesomeness.
+ - `mods/`: Hardcore modification of the music box itself.
+
+Current Projects
+----------------
+
+ - `accessories/`
+   - `sheets/`: Refill paper of different sizes (Note: Maybe a good idea to add
+                prefilled songs?)
+ - `extensions/`
+   - `externalbox/`: An external box so the music box looks pretty
+ - `mods/`
+   - Uh.... wtf there is none. Start one and submit a pull req!
 
 License
 -------
