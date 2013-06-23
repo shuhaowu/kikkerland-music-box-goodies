@@ -3,3 +3,5 @@
 *.log
 *.dwl
 *.dwl2
+*.lck
+OldVersions/
